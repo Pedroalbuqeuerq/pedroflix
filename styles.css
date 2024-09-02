@@ -1,0 +1,30 @@
+body{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+iframe{
+    border-radius: 8mm;
+
+}
+header{
+    color: rgb(210,3,29);
+ }
+h1{
+    color: yellow;
+    font-family: pb;
+
+}
+h2{
+    color: white;
+}
+
+img{
+    height: 200px;
+}
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 15px
+    ;
+}
